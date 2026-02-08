@@ -7,7 +7,7 @@ This repo is for my introduction to the coding world.
 Pseudocode,
 Flowcharts,
 SQL Queries, and
-Various Programming Languages
+Various Programming Languages.
 
 ---
 ## Completed Tasks:
