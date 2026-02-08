@@ -4,9 +4,9 @@ This repo is for my introduction to the coding world.
 
 ---
 ## The computer sceince basics I know:
-Pseudocode
-Flowcharts
-SQL Queries
+Pseudocode,
+Flowcharts,
+SQL Queries, and
 Various Programming Languages
 
 ---
